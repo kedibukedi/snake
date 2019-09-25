@@ -6,5 +6,6 @@ public class Testclass {
     @Test
     public  void test1(){
         System.out.println("你好 世界");
+        System.out.println("你好 小花花");
     }
 }
